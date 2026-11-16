@@ -1,5 +1,7 @@
 # Campus activités
 
+Auteur : Mr LEMOINE et Mr MATTEI
+
 Maquette de départ du projet BTS SIO SLAM. Ouvrez le cahier des charges Word situé à côté de ce dossier dans le ZIP.
 
 ## Lancer la maquette
